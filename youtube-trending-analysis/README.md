@@ -53,4 +53,4 @@ video_id, trending_date, publish_time, title, channel_title, category_id, catego
 Dataset is cleaned and analysis-ready
 
 🔗 Project Files
-[Download YouTube Dataset](data/YouTube-Trending-Analysis.xlsx)
+[Download Project File](data/youTube-trending-analysis.xlsx)
