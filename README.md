@@ -19,7 +19,7 @@ Analyzed 6,351 trending YouTube videos to identify key performance drivers influ
 - Delivered recommendations to improve content reach and engagement
 
 📊 **Dataset:**  
-[Download Cleaned Dataset](youtube-trending-analysis/data/youtube-cleaned-data.xlsx)
+[Download Cleaned Dataset](youtube_trending_analysis/data/youtube-cleaned-data.xlsx)
 
 🔗 **Project Details:**  
 [youtube-trending-analysis/README.md](youtube_trending_analysis/README.md)
