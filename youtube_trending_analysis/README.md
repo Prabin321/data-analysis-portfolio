@@ -20,7 +20,6 @@ To understand what factors contribute to a video trending on YouTube by analyzin
 - [Content Strategy Recommendation](analysis/content_strategy_recommendation.png)
 - [Advanced Metrics Recommendation](analysis/advanced_matrices_recommendation.png)
 - [Cleaned Dataset Preview](analysis/dataset_preview.png)
-- [Text Analysis Notes](analysis/text)
 
 ---
 
