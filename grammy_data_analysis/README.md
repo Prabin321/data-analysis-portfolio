@@ -36,7 +36,7 @@ Traffic spikes strongly align with major Grammy events such as award ceremonies 
 ---
 
 ### 📊 Traffic Comparison: Show Night vs Regular Days
-![Traffic Comparison](pivot_show_vs_regular.png)
+![Traffic Comparison](analysis/pivot_show_vs_regular.png)
 
 **Insight:**  
 Average traffic on Grammy Awards days (~1.39M visitors) is significantly higher than regular days (~32K visitors), highlighting the impact of major events on user activity.
@@ -44,7 +44,7 @@ Average traffic on Grammy Awards days (~1.39M visitors) is significantly higher 
 ---
 
 ### 📊 Engagement Metrics Comparison
-![KPI Summary](kpi_summary.png)
+![KPI Summary](analysis/kpi_summary.png)
 
 **Insight:**  
 - Recording Academy shows higher engagement across all metrics  
@@ -57,7 +57,7 @@ This suggests improved user experience and content relevance after the split.
 ---
 
 ### 📊 A/B Test Results
-![AB Test Results](ab_test_table.png)
+![AB Test Results](analysis/ab_test_table.png)
 
 **Insight:**  
 The test group (split websites) outperformed the control group with:
@@ -69,7 +69,7 @@ This indicates statistically significant improvement.
 ---
 
 ### 📊 Mobile Usage Analysis
-![Mobile Analysis](mobile_analysis.png)
+![Mobile Analysis](analysis/mobile_analysis.png)
 
 **Insight:**  
 Approximately 73.7% of users access the website via mobile devices, emphasizing the importance of mobile optimization for improving engagement metrics.
@@ -77,12 +77,12 @@ Approximately 73.7% of users access the website via mobile devices, emphasizing 
 ---
 
 ### 📊 Key Insights Summary
-![Insights](insights_traffic.png)
+![Insights](analysis/insights_traffic.png)
 
 ---
 
 ### 📊 Business Recommendation
-![Business Recommendation](business_recommendation.png)
+![Business Recommendation](analysis/business_recommendation.png)
 
 ---
 
@@ -126,4 +126,4 @@ The data shows that separating the platforms allows users to access more relevan
 
 ## 🔗 Project Files
 - 📁 Excel Workbook:  
-[Download Project File](Analyzing-Website-Performance-Grammys.xlsx)
+[Download Project File](analyzing-website-performance-grammys-dataset.xlsx)
