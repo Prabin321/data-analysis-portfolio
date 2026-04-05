@@ -28,7 +28,7 @@ The dataset includes:
 ## 📈 Key Visualizations
 
 ### 📊 Website Traffic Trends
-![Website Traffic Trends](traffic_trend.png)
+![Website Traffic Trends](analysis/traffic_trend.png)
 
 **Insight:**  
 Traffic spikes strongly align with major Grammy events such as award ceremonies and nominations, with peak traffic exceeding 3 million visitors. This indicates highly event-driven user behavior.
