@@ -27,6 +27,7 @@ Analyzed 6,351 trending YouTube videos to identify key performance drivers influ
 ---
 
 ### 2. Grammy Website Data Analysis
+
 📁 Folder: `grammy-website-data-analysis/`
 
 Analyzed A/B test results and user engagement metrics to evaluate the impact of splitting Grammy.com and RecordingAcademy.com.
@@ -40,6 +41,11 @@ Analyzed A/B test results and user engagement metrics to evaluate the impact of 
 🔗 **Project Details:**  
 [grammy-website-data-analysis/README.md](grammy_data_analysis/README.md)
 
+---
+### 🔹 Retail Sales & Customer Behavior Analysis (SQL)
+- Analyzed 541K+ transactions using SQL  
+- Identified $9.7M revenue and key customer trends  
+👉 [View Project](./sql-user-behavior-analysis)
 ---
 
 ## 🛠️ Tools Used
