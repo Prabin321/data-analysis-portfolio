@@ -1,82 +1,144 @@
-# Google Ads Campaign Performance Analysis
+📊 Google Ads Campaign Performance Analysis
+🔍 Project Overview
 
-## Project Overview
-This project analyzes Google Ads campaign performance using Python to evaluate ad efficiency, keyword performance, device-level conversions, and return on investment. The goal was to identify which keywords and devices drive the strongest results and provide recommendations to improve campaign performance.
+This project analyzes Google Ads campaign performance using Python to evaluate ad effectiveness, keyword performance, device-level engagement, and overall return on investment (ROI). The goal was to transform raw advertising data into actionable insights that improve campaign efficiency and profitability.
 
-## Business Problem
-A Google Ads campaign generated traffic and conversions, but the business needed to understand which keywords and devices were most effective. This analysis helps identify high-performing areas, inefficient spend, and opportunities to improve ROI.
+💼 Business Problem
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- VS Code/Jupyter Notebook
+A digital marketing campaign generated significant traffic and conversions, but it was unclear:
 
-## Dataset
-The dataset contains 2,600 Google Ads records with fields including:
-- Campaign Name
-- Clicks
-- Impressions
-- Cost
-- Leads
-- Conversions
-- Conversion Rate
-- Sale Amount
-- Date
-- Location
-- Device
-- Keyword
+Which keywords drive the most value
+Which devices perform best
+Where ad spend is inefficient
 
-## Data Cleaning
-Key cleaning steps included:
-- Standardized column names
-- Removed currency symbols from cost and sale amount
-- Converted numeric columns to proper data types
-- Fixed inconsistent campaign names, location names, device values, and keywords
-- Handled missing values using median/mode replacement
-- Created calculated KPI metrics
+This analysis identifies high-performing segments and provides data-driven recommendations to optimize marketing strategy.
 
-## KPI Metrics Created
-- CTR = Clicks / Impressions
-- CPC = Cost / Clicks
-- Conversion Rate = Conversions / Clicks
-- Cost per Conversion = Cost / Conversions
-- Revenue per Conversion = Sale Amount / Conversions
-- Profit = Sale Amount - Cost
-- ROI = Profit / Cost
+🛠️ Tools & Technologies
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+📂 Dataset
 
-## Key Results
-- Total Impressions: 11.76M
-- Total Clicks: 361K
-- Total Cost: $559K
-- Total Conversions: 16,985
-- Total Sales: $3.89M
-- Average CTR: 3.19%
-- Average Conversion Rate: 5.01%
-- Average ROI: 6.03
+The dataset contains 2,600+ Google Ads records with the following features:
 
-## Key Insights
-- The campaign was highly profitable overall, generating approximately 6x return on ad spend.
-- Keywords such as "data analytics course" and "data analytics training" produced strong ROI.
-- Desktop generated the highest number of conversions, followed closely by mobile.
-- Some keywords had higher cost per conversion, showing opportunities for optimization.
-- Since the dataset focused on one campaign and one location, the strongest insights came from keyword and device-level analysis.
+Campaign Name
+Clicks
+Impressions
+Cost
+Leads
+Conversions
+Conversion Rate
+Sale Amount
+Date
+Location
+Device
+Keyword
+🧹 Data Cleaning & Preparation
 
-## Recommendations
-- Increase budget allocation toward high-ROI keywords such as "data analytics course" and "data analytics training."
-- Optimize keywords with high cost per conversion through improved ad copy, bidding strategy, and landing page testing.
-- Maintain cross-device campaign coverage because desktop, mobile, and tablet all performed strongly.
-- Run A/B tests on ad copy and landing pages to improve conversion rate.
-- Expand testing to additional locations to evaluate market scalability beyond Hyderabad.
+Key preprocessing steps:
 
-## Visualizations
-The project includes:
-- Top Keywords by ROI
-- Conversions by Device
-- Highest Cost per Conversion by Keyword
-- Cost vs Conversions by Device
+Standardized column names
+Removed currency symbols and converted numeric columns
+Fixed inconsistent text values (campaign, device, keyword, location)
+Handled missing values using median/mode imputation
+Converted date column to proper datetime format
+Created calculated performance metrics (KPIs)
 
-## Project Impact
-This project demonstrates an end-to-end marketing analytics workflow, including data cleaning, KPI creation, performance analysis, visualization, and business recommendations. The analysis provides actionable insights to improve campaign efficiency, reduce cost per conversion, and maximize ROI.
+📈 KPI Metrics:
+Click-Through Rate (CTR)
+
+CTR measures how effectively an ad attracts clicks from users who see it.
+
+Formula: Clicks / Impressions
+Meaning: Higher CTR indicates stronger audience engagement and ad relevance.
+Cost Per Click (CPC)
+
+CPC represents the average cost paid for each click.
+
+Formula: Cost / Clicks
+Meaning: Lower CPC means more cost-efficient traffic acquisition.
+Conversion Rate
+
+Conversion rate measures how many users who clicked the ad completed a desired action.
+
+Formula: Conversions / Clicks
+Meaning: Higher conversion rate indicates effective targeting and landing experience.
+Cost Per Conversion
+
+This metric shows how much it costs to generate one conversion.
+
+Formula: Cost / Conversions
+Meaning: Lower values indicate higher efficiency in converting ad spend into results.
+Revenue per Conversion
+
+Average revenue generated from each conversion.
+
+Formula: Sale Amount / Conversions
+Meaning: Helps assess the value of each customer action.
+Profit
+
+Net gain from the campaign after ad costs.
+
+Formula: Sale Amount − Cost
+Meaning: Indicates whether the campaign is financially beneficial.
+Return on Investment (ROI)
+
+ROI measures profitability relative to cost.
+
+Formula: (Sale Amount − Cost) / Cost
+Meaning:
+ROI > 0 → Profitable
+ROI = 1 → 100% return
+ROI < 0 → Loss
+
+📊 Key Results
+Total Impressions: 11.76M
+Total Clicks: 361K
+Total Cost: $559K
+Total Conversions: 16,985
+Total Sales: $3.89M
+Average CTR: 3.19%
+Average Conversion Rate: 5.01%
+Average ROI: ~6.03 (≈ 603% return)
+
+🔑 Key Insights
+The campaign is highly profitable, generating ~6x return on ad spend
+Keywords such as “data analytics course” and “data analytics training” deliver the highest ROI
+Device performance is consistent across desktop, mobile, and tablet, with desktop slightly leading
+Some keywords show higher cost per conversion, indicating optimization opportunities
+Analysis is limited to one location, so insights are strongest at keyword and device levels
+
+📊 Visualizations Included
+Top Keywords by ROI
+Conversions by Device
+Cost per Conversion by Keyword
+Cost vs Conversions (Scatter Plot)
+
+🚀 Recommendations
+Scale high-performing keywords to maximize conversions and revenue
+Optimize high-cost keywords through A/B testing and improved targeting
+Maintain multi-device strategy due to consistent performance
+Improve landing pages and ad creatives to boost conversion rates
+Expand campaigns geographically to test scalability beyond a single location
+💡 Project Impact
+
+This project demonstrates an end-to-end marketing analytics workflow:
+
+Data cleaning and preprocessing
+KPI engineering
+Data visualization
+Insight generation
+Business recommendation
+
+The analysis provides actionable strategies to increase ROI, reduce cost inefficiencies, and improve campaign performance.
+
+🔗 Author
+
+Prabin Uprety
+Computer Science @ UTA | Data Analyst
+GitHub: https://github.com/Prabin321
+
+LinkedIn: https://www.linkedin.com/in/pr-up-p296780
