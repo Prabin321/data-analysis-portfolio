@@ -122,11 +122,6 @@ To fully evaluate impact, future analysis should include:
 
 ---
 
-## 📄 Resume Bullet
-Conducted and analyzed an A/B test on email subject lines, identifying a high-performing variant that improved open rates and supported a data-driven marketing strategy.
-
----
-
 ## 👤 Author
 **Prabin Uprety**  
 📧 uprety.prabin69@gmail.com  
