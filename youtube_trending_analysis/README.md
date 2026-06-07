@@ -2,7 +2,7 @@
 # 📊 YouTube Trending Analysis
 
 ## 📌 Overview
-This project analyzes 6,000+ trending YouTube videos to identify key performance drivers influencing content reach and engagement.
+In this project, I analyzes 6,000+ trending YouTube videos to identify key performance drivers influencing content reach and engagement.
 
 ---
 
