@@ -1,6 +1,6 @@
 # 📊Data Analysis Portfolio
 
-Welcome to my **Excel Data Analysis Portfolio**!  
+Welcome to my **Data Analysis Portfolio**!  
 This repository showcases projects analyzing real-world datasets using Excel, PivotTables, data cleaning, and visualization to generate actionable, data-driven insights.
 
 ---
