@@ -111,7 +111,7 @@ To fully evaluate impact, future analysis should include:
 ## 📊 Project Output
 
 ### PivotTable Summary
-![PivotTable Screenshot](images/pivot_table.png)
+![PivotTable Screenshot](analysis/pivot_table.png)
 
 ---
 
