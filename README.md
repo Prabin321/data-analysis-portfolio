@@ -75,6 +75,8 @@ Analyzed 2,600+ Google Ads campaign records using Python to evaluate campaign pe
 - SQL / SQLite
 - Data Visualization
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Machine Learning
+- Scikit learn, scipy
 
 ---
 
